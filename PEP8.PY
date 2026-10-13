@@ -102,7 +102,7 @@ def main():
                 parar()
 
             elif opcion == "0":
-                print("Bye")
+                print("Bye delfina")
                 continuar = False
 
             else:
@@ -114,3 +114,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
